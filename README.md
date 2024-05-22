@@ -1,0 +1,1 @@
+This Website created for store a book name, author, and short description of that book, its created using html, css and javascript to make responsive website and also put a coloring and style to look like awesome
